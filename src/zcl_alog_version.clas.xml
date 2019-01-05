@@ -8,7 +8,6 @@
     <LANGU>E</LANGU>
     <DESCRIPT>Version constants for abap-log</DESCRIPT>
     <STATE>1</STATE>
-    <CLSFINAL>X</CLSFINAL>
     <CLSCCINCL>X</CLSCCINCL>
     <FIXPT>X</FIXPT>
     <UNICODE>X</UNICODE>
